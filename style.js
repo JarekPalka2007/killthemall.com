@@ -1,0 +1,1 @@
+alert("Welcome to Kill them all official web! by: BatCave Games!")
